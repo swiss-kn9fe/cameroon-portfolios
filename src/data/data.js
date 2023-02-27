@@ -10,6 +10,15 @@ const data = [
     },
   },
   {
+    name: "Daphnia",
+    link: "https://daphnia.pw",
+    tags: ["Cybersecurity", "Cyber Hunter", "Cyberinvestigator"],
+    socials: {
+      twitter: "",
+      github: "",
+      linkedin: "",
+    },
+  {
     name: "Arthur Monney",
     link: "https://arthurmonney.me",
     tags: ["FrontEnd", "BackEnd", "Design"],
